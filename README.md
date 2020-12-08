@@ -1,0 +1,2 @@
+# gitmass
+Git Mass Cloner
