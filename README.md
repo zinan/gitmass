@@ -2,6 +2,7 @@
 > Clone all your repositories with a single line of command
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![codecov](https://codecov.io/gh/zinan/gitmass/branch/main/graph/badge.svg)](https://codecov.io/gh/zinan/gitmass)
 [![Build Status](https://travis-ci.com/zinan/gitmass.svg)](https://travis-ci.com/zinan/gitmass)
 [![License: LGPL v3](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
