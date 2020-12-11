@@ -2,7 +2,7 @@
 > Clone all your repositories with a single line of command
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-[![Build Status](https://travis-ci.org/zinan/docoman.svg)](https://travis-ci.org/zinan/docoman)
+[![Build Status](https://travis-ci.com/zinan/gitmass.svg)](https://travis-ci.com/zinan/gitmass)
 [![License: LGPL v3](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 Gitmass is a fast, lightweight and simple `bulk git clone tool`. You can clone and/or pull all your repositories in your organization. Works with Github, Gitlab and Bitbucket!
