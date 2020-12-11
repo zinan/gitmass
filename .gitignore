@@ -1,0 +1,7 @@
+.env
+.idea/
+venv
+*.egg-info/
+*.egg
+.vscode/
+.DS_Store

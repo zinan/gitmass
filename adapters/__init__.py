@@ -1,0 +1,3 @@
+from adapters.GithubAdapter import GithubAdapter
+from adapters.GitlabAdapter import GitlabAdapter
+from adapters.BitbucketAdapter import BitbucketAdapter
