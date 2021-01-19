@@ -66,7 +66,7 @@ For example:
 
 ## Meta
 
-Sinan Turgut – [@zinan](https://twitter.com/zinaney) – mail@sinanturgut.com
+Sinan Turgut – [@zinan](https://twitter.com/zinaney)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
